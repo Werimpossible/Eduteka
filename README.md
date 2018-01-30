@@ -6,7 +6,7 @@
 
 ## Tabla de Contenido
 1. [Descripción](#descripcion)
-2. [Objetivo del reto Laboratoria](#objetivo)
+2. [Objetivo Eduteka](#objetivo)
 3. [Mockups de Wireframes](#mockup)
     2. [General](#mockup-general)
 4. [Wireframes Previas](#previas)
@@ -17,15 +17,15 @@
 
 ## <a name="descripcion"></a> Descripción: ##
 - Versión 1.0:
-    
+    Eduteka es un producto digital creado para dispositivos moviles.
 
-## <a name="objetivo"></a> Objetivo de Laboratoria ##
+## <a name="objetivo"></a> Objetivo de Eduteka ##
 - 
 
-## <a name="mockup"></a> Mockuping ##
+## <a name="mockup"></a> Mockups ##
 - <a name="mockup-general"></a>**Mockup general**
     - <img src=assets/images/readme/---->
 
-## <a name="previas"></a> Wireframes Previas Definitivas
+## <a name="previas"></a> Wireframes
 - <a name="general"></a>**Wireframe general**
     - <img src=assets/images/readme/---->
