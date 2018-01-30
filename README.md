@@ -1,16 +1,17 @@
 # EDUTEKA # 
-<img src=assets/images/Logo.png>
+<img src=assets/images/favicon.png>
+
 ### Versión 1.0
 ## Link Github Pages: ##
 ()
 
 ## Tabla de Contenido
-1. [Descripción](#descripcion)
+1. [Descripción del producto](#descripcion)
 2. [Objetivo Eduteka](#objetivo)
 3. [Mockups de Wireframes](#mockup)
-    2. [General](#mockup-general)
+    1. [General](#mockup-general)
 4. [Wireframes Previas](#previas)
-    2. [General](#general)
+    1. [General](#general)
 
 - Pd. Para mayor información, el contenido de este README asi como información adicional y detallada de la mostrada a continuación, se encuentra en el PDF integrado en este repositorio
 
