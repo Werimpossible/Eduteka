@@ -1,4 +1,5 @@
 # EDUTEKA # 
+<img src=assets/images/Logo.png>
 ### Versión 1.0
 ## Link Github Pages: ##
 ()
@@ -6,12 +7,12 @@
 ## Tabla de Contenido
 1. [Descripción](#descripcion)
 2. [Objetivo del reto Laboratoria](#objetivo)
-3. [Sketching de Vistas](#sketching)
-    2. [General](#sketch-general)
-4. [Vistas Previas](#previas)
+3. [Mockups de Wireframes](#mockup)
+    2. [General](#mockup-general)
+4. [Wireframes Previas](#previas)
     2. [General](#general)
-5. [Funciones](#funciones)
-    1. [Pseudocodigo](#pseudo)
+
+- Pd. Para mayor información, el contenido de este README asi como información adicional y detallada de la mostrada a continuación, se encuentra en el PDF integrado en este repositorio
 
 
 ## <a name="descripcion"></a> Descripción: ##
@@ -21,21 +22,10 @@
 ## <a name="objetivo"></a> Objetivo de Laboratoria ##
 - 
 
-## <a name="sketching"></a> Sketching ##
-- <a name="sketch-general"></a>**Sketch general**
+## <a name="mockup"></a> Mockuping ##
+- <a name="mockup-general"></a>**Mockup general**
     - <img src=assets/images/readme/---->
 
-## <a name="previas"></a> Vistas Previas Definitivas
-- <a name="general"></a>**Vista general**
+## <a name="previas"></a> Wireframes Previas Definitivas
+- <a name="general"></a>**Wireframe general**
     - <img src=assets/images/readme/---->
-
-## <a name="funciones"></a> Funciones Técnicas <a name="funciones"></a>
-- Descripción de lo utilizado:
-    - Se utilizó:
-        - HTML
-        - Javascript
-        - jQueary
-        - Bootstrap
-        - CSS
-### <a name="pseudo"></a> Pseudocódigo:
-<img src=assets/images/readme/---->
