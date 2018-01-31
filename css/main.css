@@ -1,1 +1,37 @@
 
+#login {
+  background: white;
+
+}
+.logo{
+  margin-left: 50%;
+}
+.logo-e{
+  width: 15em;
+}
+.row1{
+  margin-top: 5%;
+  margin-left: 35%;
+  width:25%;
+}
+.row2{
+padding-top: 20%;
+  width: 20em;
+  margin-left: 40%
+
+}
+.form-group{
+  padding-top: 2%;
+}
+
+h6{
+  text-align: center;
+}
+.iniciar-sesión{
+  background-color:#EDEFF1;
+  border-radius: 3px;
+  border-style: solid;
+  margin-left: 41%;
+  opacity: 0.5;
+  width: 18%;
+}
