@@ -1,9 +1,17 @@
 
+.new-color{
+  background-color: #FFAF00;
+}
+
+#boton-header, #inverseNavbar1{
+  border-color: #FFAF00;
+}
 
 #login {
   background: white;
-
 }
+
+
 .logo{
   margin-left: 50%;
 }
@@ -59,4 +67,3 @@ a:active {
 	font-family: roboto;
 	font-style: normal;
 	font-weight: 200;
-
